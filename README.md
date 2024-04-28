@@ -1,5 +1,7 @@
 # app_docker_compose_list
 
+Console app for printing containers which are used in docker-compose.
+
 ```
 ~/Projects/app_docker_compose_list$ go run main.go
 +--------+---------------------------------------------+----------------------------------+---------+------------------------+-----------------+----------------------------------------------------------------------+
